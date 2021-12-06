@@ -2,6 +2,7 @@
 
 - [Sankalpa] (https://github.com/0sf/)
 - [Thiwanka] (https://github.com/ThiwankaShan)
+- [Leon] (https://github.com/LH-ctrl)
 - [Sachini] (https://github.com/SachiniKarunarathne/)
 - [Hiruni] (https://github.com/HiruniSenevirathne/)
 - [Dilshan] (https://github.com/Dilshan1997/)
